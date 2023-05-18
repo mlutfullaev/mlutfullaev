@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-I am a Front-end developer. Since the age of 12 I have already started studying programming since that moment I am always in search of new skills and adventures, I am self-taught - Google is like a second Mother). During this time, I got acquainted with many technologies and I want to develop further in this area. He worked on the freelance exchange Kwork and completed more than 50 orders. I am now actively looking for a job, I want to develop further and become a Senior Full-stack developer.
+I have been learning programming since I was 12 years old, and since then, I have been always seeking out new experiences and talents. I am self-taught, and Google is like a second mother to me. I learned a lot about many technologies during this time, and I wish to continue to advance in this field. I completed over 50 orders while working on the freelance marketplace Kwork. Currently, I'm looking for work since I want to move up and become a Senior Full-stack Developer.
 
 ---
 
