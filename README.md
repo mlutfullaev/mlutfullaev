@@ -14,13 +14,13 @@
   <div id="badges">
     <a href="https://www.instagram.com/mlutfullaev1" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40" alt="instagram" />
-    </a>
+    </a>&nbsp;
     <a href="https://t.me/magalutfullaev" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
+    </a>&nbsp;
     <a href="mailto:mhoja9494@gmail.com" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40" height="40" alt="gmail" />
-    </a>
+    </a>&nbsp;
   </div>
 
 ---
