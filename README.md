@@ -1,15 +1,15 @@
 
-# Привет, я Мага!
+# Hi, I'm Maga
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
-Я Front-end разработчик. С 12 лет уже начал изучать программирование с того момента я все время в поисках новых навыков и приключений, я самоучка - Google как вторая Мама). В это время я познакомился с многими технологиями и хочу дальше развиваться в этом сфере. Работал на фриланс бирже Kwork и закончил более 50 заказов. Я сейчас активно ищу работу, хочу развиваться дальше и стать Senior Fullstack разработчиком. 
+I am a Front-end developer. Since the age of 12 I have already started studying programming since that moment I am always in search of new skills and adventures, I am self-taught - Google is like a second Mother). During this time, I got acquainted with many technologies and I want to develop further in this area. He worked on the freelance exchange Kwork and completed more than 50 orders. I am now actively looking for a job, I want to develop further and become a Senior Full-stack developer.
 
 ---
 
-### 🤝 Как связаться со мной:
+### 🤝 How to contact me:
 
   <div id="badges">
     <a href="https://www.instagram.com/mlutfullaev1" target="_blank">
@@ -25,7 +25,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <p>Front-end</p>
@@ -42,7 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
   
-  <p>Остальное</p>
+  <p>Others</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 </div>
@@ -53,7 +53,7 @@
 
 ![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
 -->
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
