@@ -53,17 +53,21 @@ I have been learning programming since I was 12 years old, and since then, I hav
 
 ![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
 -->
+<!--    
 ### ⚙️ GitHub statistics:
 
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=magalutfullaev&theme=dark&background=000000" alt="developer status" />
+      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlutfullaev&layout=compact" />
+    </td>
+     <td>
+      <img height="195px" align="right" alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=mlutfullaev" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=magalutfullaev&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="WakaTime" src="https://github-readme-stats.vercel.app/api?username=mlutfullaev&show_icons=true&theme=transparent" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey -->
