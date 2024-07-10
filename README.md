@@ -5,7 +5,10 @@
 
 ### :man_technologist: About me:
 
-I have been learning programming since I was 12 years old, and since then, I have been always seeking out new experiences and talents. I am self-taught, and Google is like a second mother to me. I learned a lot about many technologies during this time, and I wish to continue to advance in this field. I completed over 50 orders while working on the freelance marketplace Kwork. Currently, I'm looking for work since I want to move up and become a Senior Full-stack Developer.
+I have been programming since 2020, exploring various technologies and developing a range of projects including websites, dashboards, CRM systems, online stores, and Telegram bots.<br><br>
+<a href="https://mlutfullaev.vercel.app" target="_blank">
+  My Portfolio
+</a>
 
 ---
 
@@ -44,27 +47,3 @@ I have been learning programming since I was 12 years old, and since then, I hav
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-<!-- ### 💻 Codewars: 
-
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
--->
-<!--    
-### ⚙️ GitHub statistics:
-
-<table>
-  <tr>
-    <td>
-      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlutfullaev&layout=compact" />
-    </td>
-     <td>
-      <img height="195px" align="right" alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=mlutfullaev" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="WakaTime" src="https://github-readme-stats.vercel.app/api?username=mlutfullaev&show_icons=true&theme=transparent" />
-    </td>
-  </tr>
-</table> -->
-
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey -->
