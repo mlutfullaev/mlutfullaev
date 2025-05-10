@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Let’s connect and collaborate. Check out my proj
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlutfullaev/)
 [![Kwork](https://img.shields.io/badge/Kwork-F2A808?style=for-the-badge)](https://kwork.ru/user/magalutfullaev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlutfullaevv@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mlutfullaev)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/magalutfullaev)
 
 ---
 
