@@ -1,7 +1,8 @@
 
-# Hey! Great to see you here!
-
-Welcome to my GitHub profile! Let’s connect and collaborate. Check out my projects, and feel free to reach out!
+# Hi, I'm Maga Lutfullaev! - Wassup?
+Frontend Software Engineer with 4 years exp. in tech.  
+Head of Frontend at Workly.io - The best automation time-tracking system.  
+Head of Frontend at OshLab.uz — building a global hospitality automation ecosystem.  
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://mlutfullaev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlutfullaev/)
