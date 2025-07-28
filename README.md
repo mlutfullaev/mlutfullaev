@@ -1,7 +1,7 @@
 
 # Hi, I'm Maga Lutfullaev! - Wassup?
 Frontend Software Engineer with 4 years exp. in tech.  
-Head of Frontend at Workly.io - The best automation time-tracking system.  
+Frontend Dev at Workly.io - The best automation time-tracking system.  
 Head of Frontend at OshLab.uz — building a global hospitality automation ecosystem.  
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://mlutfullaev.vercel.app)
