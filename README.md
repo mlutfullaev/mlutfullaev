@@ -4,7 +4,7 @@ Frontend Software Engineer with 4 years exp. in tech.
 Frontend Dev at Workly.io - The best automation time-tracking system.  
 Head of Frontend at OshLab.uz — building empire of global hospitality automation ecosystem.  
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://mlutfullaev.vercel.app)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://mluev.uz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlutfullaev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlutfullaevv@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/magalutfullaev)
